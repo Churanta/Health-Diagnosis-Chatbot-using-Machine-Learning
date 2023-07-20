@@ -57,6 +57,11 @@ This Health Diagnosis ChatBot is a basic implementation and can be further impro
 3. Utilize a larger and more diverse dataset to improve prediction capabilities.
 4. Incorporate natural language processing (NLP) techniques to better understand user inputs.
 
+## Video demonstration
+https://github.com/Churanta/Health-Diagnosis-Chatbot-using-Machine-Learning/assets/83538805/47f00eea-8c36-49e8-9654-0e7a8d89ec4d
+
+
+
 ### Please note that this project is for educational purposes and should not be used as a substitute for professional medical advice. Always consult a qualified healthcare professional for accurate diagnosis and treatment.
 
 ### Feel free to explore and expand upon this Health Diagnosis ChatBot to make it more comprehensive and robust.
