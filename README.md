@@ -21,7 +21,7 @@ The code uses two CSV files for training and testing data:
 1. clone the repository - `git clone https://github.com/Churanta/Health-Diagnosis-Chatbot-using-Machine-Learning.git`
 2. Open the file
 3. Run the command `pip install -r requirements.txt`
-4. Now run the python file
+4. Now run the python file .
 
 ## Machine Learning Models
 
